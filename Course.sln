@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36310.24 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkUtility", "NetworkUtility\NetworkUtility.csproj", "{AB0FE9E6-046C-48DE-8A0C-E1C475E04196}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkUtility.Tests", "NetworkUtility.Tests\NetworkUtility.Tests.csproj", "{55A326FF-EE91-4F4E-9C24-DFFCA8E93F7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AB0FE9E6-046C-48DE-8A0C-E1C475E04196}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB0FE9E6-046C-48DE-8A0C-E1C475E04196}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB0FE9E6-046C-48DE-8A0C-E1C475E04196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A326FF-EE91-4F4E-9C24-DFFCA8E93F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A326FF-EE91-4F4E-9C24-DFFCA8E93F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A326FF-EE91-4F4E-9C24-DFFCA8E93F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A326FF-EE91-4F4E-9C24-DFFCA8E93F7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
